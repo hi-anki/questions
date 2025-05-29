@@ -42,3 +42,6 @@
     - The problem is, as long as there are external factors, influencing the inner state, there is always going to be a delta. There is always going to be difference b/w what I thought I would achieve and what I actually achieved.
     - Because I can never map the reality in such a situation. When it is all about internal factor, I can fine tune it as far as possible. But when external factors, most importantly, things out of my control, are involved, and in such a way that they become the 20% thing that influences the 80%, that's when the problem has become significant. And that's precisely the idea I am testing right now. And I'll conclude it soon.
   - Stop here. Lets build L1 and L2 scaling. Someday in future, we'll talk about sorting out this **external factors** problem.
+
+----------
+
