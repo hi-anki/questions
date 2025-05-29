@@ -32,3 +32,12 @@
     - If the new thing falls under the same umbrella, I can take advantage of both L1 and L2 scaling.
     - If the new thing falls under a different umbrella, I can only take advantage of L1 scaling. But, if I have previous experiences in that umbrella, I can also take advantage of L2 scaling.
     - And yes, the amount and quality of L1 scaling depends on the enhancements done in the learning methodology, while the amount and quality of L2 scaling depends on the availability of existing dataset, where the quality of dataset matters as equal as the quantity.
+    - It can be said that L1 is the base and L2 very much builds upon it. While L1 also improves via L2.
+   
+  - But there is a problem to this. **External Factors**
+    - The whole idea we have discused so far is just like an *ideal gas equation*. Good for solving questions but, in reality, its complex.
+    - So far, we discused what we can control. This is about what we can't.
+    - Up to a point, external factors are just internal problems masked as external factors to avoid taking credit of our own incapabilities.
+    - But after a point, it just boil down to purely external factors only. Though I have to test the ending part, whether it is about external factors at the end or my own mental interpretation of them . But yeah.
+    - The problem is, as long as there are external factors, influencing the inner state, there is always going to be a delta. There is always going to be difference b/w what I thought I would achieve and what I actually achieved.
+    - Because I can never map the reality in such a situation. When it is all about internal factor, I can fine tune it as far as possible. But when external factors, most importantly, things out of my control, are involved, and in such a way that they become the 20% thing that influences the 80%, that's when the problem has become significant. And that's precisely the idea I am testing right now. And I'll conclude it soon.
