@@ -20,3 +20,15 @@
     - You may say color theory and UI/UX designing might help me in drawing.
     - What if I was a backend developer? What if I have nothing to do with UIs? And my onlyl concern is logic? Say I was a compiler developer, using vim and other terminal tool-chain as my daily driver. Black bg and white characters on top.
     - Saying "learning would develop my instincts" is a better way to hide the complexity of this topic. Because you can't dissect instincts. It is saying that "I know there exists something that helps but I don't know what that is". It can't be articulated.
+
+  - Concept absorption, practice and iteration, pattern recognition, and adaptation; this is the crux of learning at a high-level. All of these take their time.
+  - Making learning itself an 0(1) process is a far-away thing. But that doesn't mean I can't do anything.
+  - Learning methodology and time taken follows an inverse relationship. The efficient my learning process is, the less time it would take me to learn something. Thus, optimising my learning methodology is possibly the best I can do to reduce time taken.
+  - The subject of learning also follows the same inverse relationship, but it has some nuances.
+    - When the umbrella is same, previous learning experiences in that umbrella helps.
+    - On the other hand, if the subject falls under a different umbrella, and I have no experience, it is as good as starting from scratch. But the learning methodology I would have formed so far would help me.
+  - In that sense, it can be said that learning methodology provides level 1 scaling. While previous dataset provides level 2 scaling.
+  - Learning methodology is independent of umbrella, while existing dataset of experiences and understanding is dependent on the umbrella they belong to.
+  - If the new thing falls under the same umbrella, I can take advantage of both L1 and L2 scaling.
+  - If the new thing falls under a different umbrella, I can only take advantage of L1 scaling. But, if I have previous experiences in that umbrella, I can also take advantage of L2 scaling.
+  - And yes, the amount and quality of L1 scaling depends on the enhancements done in the learning methodology, while the amount and quality of L2 scaling depends on the availability of existing dataset, where the quality of dataset matters as equal as the quantity.
