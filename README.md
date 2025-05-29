@@ -1,6 +1,6 @@
-Can learning be hyper-scaled? Can the total time taken be fixed, irrespective of the subject, topic, or entire domain itself?
-Can learning be made an O(1) process?
-Is learning an independent process or an integrated process?
+- Can learning be hyper-scaled? Can the total time taken be fixed, irrespective of the subject, topic, or entire domain itself?
+- Can learning be made an O(1) process?
+- Is learning an independent process or an integrated process?
   - The two things that matter here are:
     1. The learning process itself, and
     2. The subject being learned.
